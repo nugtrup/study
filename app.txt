@@ -4,3 +4,6 @@ git commit -m '메모'
 
 1. 여러 파일을 스테이징 하려면..
     git add 파일1 파일2 ...
+
+2. commit 내역 조회
+    git log --all --oneline
