@@ -1,1 +1,4 @@
-aaaaaaaaaaaaaaaa
+git add 파일명
+git commit -m '메모'
+파일 수정
+
