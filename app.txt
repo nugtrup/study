@@ -8,3 +8,11 @@ git commit -m '메모'
 
 2. commit 내역 조회
     git log --all --oneline
+
+3. 최근 commit vs 현재 파일 차이점
+    git diff
+    git difftool - 현재파일 vs 특정커밋 비교 가능
+
+4. git branch 브랜치명
+    브랜치 생성해줌
+    브랜치 == 사본
