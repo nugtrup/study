@@ -1,3 +1,4 @@
+git init
 git add 파일명
 git commit -m '메모'
 반드시 저장 후 add
